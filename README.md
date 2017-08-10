@@ -1,0 +1,7 @@
+1. User enters 3 and "three" is returned - 3 - "three"
+2. User enters 11 and "eleven" is returned - 11 - "eleven"
+3. User enters 21 and "twenty one" is returned - 21 - "twenty one"
+4. User enters 101 and "one hundred one" is returned - 101 - "one hundred one"
+5. User enters 1001 and "one thousand one" is returned - 1001 - "one thousand one"
+6. User enters 10,891 and "ten thousand eight hundred nintey one" is returned- 10,891 - "ten thousand eight hundred nintey one"
+7. User enters 350,465 and "three hundred fifty thousand four hundred sixty five" is returned - 350,465 -  "three hundred fifty thousand four hundred sixty five"
